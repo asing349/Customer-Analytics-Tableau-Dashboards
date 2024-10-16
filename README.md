@@ -7,6 +7,10 @@ This project analyzes customer shopping behavior using **Tableau** to create int
 1. **Overall Sales Performance Dashboard**
 2. **Customer Segmentation Dashboard**
 
+## Dashboard Preview
+
+![Dashboard Consumer Analytics](./Dashboard%20images/Dashboard%20Consumer%20Analytics.PNG)
+
 ## Data
 The dataset contains the following fields:
 - **Invoice Number**: Unique identifier for each transaction
